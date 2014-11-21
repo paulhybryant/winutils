@@ -1,1 +1,1 @@
-SETX PATH "%PATH%;%1"
+SETX PATH "%1;%PATH%"
